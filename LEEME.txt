@@ -1,0 +1,12 @@
+APPS CHOBIS – versión instalable (PWA)
+
+Carpetas:
+  asados/       -> tu app para cargar (no compartir este link)
+  historial/    -> app de solo lectura (para los chobis)
+  calculadora/  -> Calculadora gastos
+  config.js     -> ACÁ se pegan los 3 links /exec de Apps Script
+  index.html    -> página de inicio con los links para compartir (no muestra la de asados)
+  sw.js         -> necesario para que se pueda instalar
+
+Los datos siguen viviendo en tu planilla de Google: esto solo es el "envoltorio"
+con nombre, ícono y pantalla completa.
